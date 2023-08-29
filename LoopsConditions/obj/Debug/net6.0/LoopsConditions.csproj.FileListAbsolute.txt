@@ -1,0 +1,15 @@
+C:\Users\hoope\OneDrive\Desktop\C_Sharp\Fundamental1\LoopsConditions\bin\Debug\net6.0\LoopsConditions.exe
+C:\Users\hoope\OneDrive\Desktop\C_Sharp\Fundamental1\LoopsConditions\bin\Debug\net6.0\LoopsConditions.deps.json
+C:\Users\hoope\OneDrive\Desktop\C_Sharp\Fundamental1\LoopsConditions\bin\Debug\net6.0\LoopsConditions.runtimeconfig.json
+C:\Users\hoope\OneDrive\Desktop\C_Sharp\Fundamental1\LoopsConditions\bin\Debug\net6.0\LoopsConditions.dll
+C:\Users\hoope\OneDrive\Desktop\C_Sharp\Fundamental1\LoopsConditions\bin\Debug\net6.0\LoopsConditions.pdb
+C:\Users\hoope\OneDrive\Desktop\C_Sharp\Fundamental1\LoopsConditions\obj\Debug\net6.0\LoopsConditions.csproj.AssemblyReference.cache
+C:\Users\hoope\OneDrive\Desktop\C_Sharp\Fundamental1\LoopsConditions\obj\Debug\net6.0\LoopsConditions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hoope\OneDrive\Desktop\C_Sharp\Fundamental1\LoopsConditions\obj\Debug\net6.0\LoopsConditions.AssemblyInfoInputs.cache
+C:\Users\hoope\OneDrive\Desktop\C_Sharp\Fundamental1\LoopsConditions\obj\Debug\net6.0\LoopsConditions.AssemblyInfo.cs
+C:\Users\hoope\OneDrive\Desktop\C_Sharp\Fundamental1\LoopsConditions\obj\Debug\net6.0\LoopsConditions.csproj.CoreCompileInputs.cache
+C:\Users\hoope\OneDrive\Desktop\C_Sharp\Fundamental1\LoopsConditions\obj\Debug\net6.0\LoopsConditions.dll
+C:\Users\hoope\OneDrive\Desktop\C_Sharp\Fundamental1\LoopsConditions\obj\Debug\net6.0\refint\LoopsConditions.dll
+C:\Users\hoope\OneDrive\Desktop\C_Sharp\Fundamental1\LoopsConditions\obj\Debug\net6.0\LoopsConditions.pdb
+C:\Users\hoope\OneDrive\Desktop\C_Sharp\Fundamental1\LoopsConditions\obj\Debug\net6.0\LoopsConditions.genruntimeconfig.cache
+C:\Users\hoope\OneDrive\Desktop\C_Sharp\Fundamental1\LoopsConditions\obj\Debug\net6.0\ref\LoopsConditions.dll
